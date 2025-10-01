@@ -10,7 +10,7 @@ This guide explains how to deploy the Avatar Cloud Demo: an IIS-hosted ASP.NET a
 
 ## 2. Deploy Infrastructure
 1. Create a Windows Server VM 
-![Windows Server VM Creation](diagrams/vm_create_ws2019_running.png)
+
 
    - Size: Standard B2s (demo-friendly)
    - NSG: Allow HTTP (80/8080) + RDP (3389, restricted to your IP)
