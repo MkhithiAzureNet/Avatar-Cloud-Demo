@@ -21,3 +21,5 @@ Full-stack IIS + Azure SQL deployment with monitoring, security, and cost optimi
 - Diagnostic settings
 - NSG rules
 
+👉 [See More Cloud Projects](https://github.com/MkhithiAzureNet/cloud-projects)
+
