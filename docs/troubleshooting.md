@@ -37,8 +37,6 @@ This document captures common issues and fixes during deployment.
  
  ## 7. Microsoft.Sql Resource Provider Not Registered
 - **Symptom:** Azure CLI failed to create SQL Server with the error:
-![SQL Resource Provider Registration](diagrams/sql_mssql.png)
-
 - **Cause:** The Azure subscription had not registered the `Microsoft.Sql` resource provider.
 - **Fix:** Registered the provider manually using Azure CLI:
 
